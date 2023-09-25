@@ -1,0 +1,15 @@
+/Users/smylezstudioz/sgrepos/IterationStatementsExercise1/Iterations Statements Exercise 1/Iterations Statements Exercise 1/bin/Debug/net7.0/Iterations Statements Exercise 1
+/Users/smylezstudioz/sgrepos/IterationStatementsExercise1/Iterations Statements Exercise 1/Iterations Statements Exercise 1/bin/Debug/net7.0/Iterations Statements Exercise 1.deps.json
+/Users/smylezstudioz/sgrepos/IterationStatementsExercise1/Iterations Statements Exercise 1/Iterations Statements Exercise 1/bin/Debug/net7.0/Iterations Statements Exercise 1.runtimeconfig.json
+/Users/smylezstudioz/sgrepos/IterationStatementsExercise1/Iterations Statements Exercise 1/Iterations Statements Exercise 1/bin/Debug/net7.0/Iterations Statements Exercise 1.dll
+/Users/smylezstudioz/sgrepos/IterationStatementsExercise1/Iterations Statements Exercise 1/Iterations Statements Exercise 1/bin/Debug/net7.0/Iterations Statements Exercise 1.pdb
+/Users/smylezstudioz/sgrepos/IterationStatementsExercise1/Iterations Statements Exercise 1/Iterations Statements Exercise 1/obj/Debug/net7.0/Iterations Statements Exercise 1.csproj.AssemblyReference.cache
+/Users/smylezstudioz/sgrepos/IterationStatementsExercise1/Iterations Statements Exercise 1/Iterations Statements Exercise 1/obj/Debug/net7.0/Iterations Statements Exercise 1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/smylezstudioz/sgrepos/IterationStatementsExercise1/Iterations Statements Exercise 1/Iterations Statements Exercise 1/obj/Debug/net7.0/Iterations Statements Exercise 1.AssemblyInfoInputs.cache
+/Users/smylezstudioz/sgrepos/IterationStatementsExercise1/Iterations Statements Exercise 1/Iterations Statements Exercise 1/obj/Debug/net7.0/Iterations Statements Exercise 1.AssemblyInfo.cs
+/Users/smylezstudioz/sgrepos/IterationStatementsExercise1/Iterations Statements Exercise 1/Iterations Statements Exercise 1/obj/Debug/net7.0/Iterations Statements Exercise 1.csproj.CoreCompileInputs.cache
+/Users/smylezstudioz/sgrepos/IterationStatementsExercise1/Iterations Statements Exercise 1/Iterations Statements Exercise 1/obj/Debug/net7.0/Iterations Statements Exercise 1.dll
+/Users/smylezstudioz/sgrepos/IterationStatementsExercise1/Iterations Statements Exercise 1/Iterations Statements Exercise 1/obj/Debug/net7.0/refint/Iterations Statements Exercise 1.dll
+/Users/smylezstudioz/sgrepos/IterationStatementsExercise1/Iterations Statements Exercise 1/Iterations Statements Exercise 1/obj/Debug/net7.0/Iterations Statements Exercise 1.pdb
+/Users/smylezstudioz/sgrepos/IterationStatementsExercise1/Iterations Statements Exercise 1/Iterations Statements Exercise 1/obj/Debug/net7.0/Iterations Statements Exercise 1.genruntimeconfig.cache
+/Users/smylezstudioz/sgrepos/IterationStatementsExercise1/Iterations Statements Exercise 1/Iterations Statements Exercise 1/obj/Debug/net7.0/ref/Iterations Statements Exercise 1.dll
