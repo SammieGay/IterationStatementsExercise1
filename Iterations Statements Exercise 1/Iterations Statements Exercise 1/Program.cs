@@ -8,7 +8,7 @@ namespace Exercise1
         static void Main(string[] args)
         {
 
-            for (int i = 0; i < 15; i++)
+            for (int i = 0; i <= 15; i++)
             {
                 Console.WriteLine($"{i}");
             }
